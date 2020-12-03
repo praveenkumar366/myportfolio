@@ -1,0 +1,52 @@
+[
+    {
+        "skill" : "HTML5",
+        "percent" : 95,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "CSS3",
+        "percent" : 85,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "Javascript",
+        "percent" : 80,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "jQuery",
+        "percent" : 90,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "Bootstrap",
+        "percent" : 90,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "PHP",
+        "percent" : 85,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "Codeigniter",
+        "percent" : 90,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "AJAX",
+        "percent" : 95,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "MySQL",
+        "percent" : 75,
+        "color" : "#2c98f0"
+    },
+    {
+        "skill" : "Laravel",
+        "percent" : 50,
+        "color" : "#2c98f0"
+    }
+]

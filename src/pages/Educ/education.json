@@ -1,0 +1,25 @@
+[
+    
+    {
+        "year" : "2010",
+        "course" : "High School Education (10th)",
+        "university" : "CBSE",
+        "institution" : "MARY GIRI ENGLISH MEDIUM SENIOR SECONDARY SCHOOL",
+        "GPA" : 7.8
+    },
+    {
+        "year" : "2012",
+        "course" : "High School Secondary Education (12th)",
+        "university" : "CBSE",
+        "institution" : "MARY GIRI ENGLISH MEDIUM SENIOR SECONDARY SCHOOL",
+        "GPA" : 7.8
+    },
+    {
+        "year" : "2012 - 2016",
+        "course" : "B.E. Computer Science & Engineering",
+        "university" : "Anna University, Chennai",
+        "institution" : "BETHLAHEM INSTITUTE OF ENGINEERING, KARUNGAL",
+        "GPA" : 6.5
+    }
+
+]

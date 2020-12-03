@@ -1,0 +1,25 @@
+.main_d {
+    margin-bottom: 20px;
+    padding: 0px !important;
+}
+.educ_head {
+    background-color: #2c98f0ce;
+    border: 1px solid #2c98f0ce;
+    color: seashell;
+    font-size: 20px;
+    padding: 10px 20px;
+    text-align: left;
+}
+
+.educ_row {
+    border: 1px solid #e6e6e6 ;
+    box-sizing: border-box;
+    background-color: #f2f3f738;
+    margin: 0px !important;
+    text-align: left;
+}
+
+.head_educ {
+    text-align: left;
+    margin: 40px 0px;
+}

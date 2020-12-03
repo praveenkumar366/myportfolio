@@ -1,0 +1,52 @@
+[
+    {
+        "post" : "PHP Intern",
+        "date" : "OCT 2016 - DEC 2016",
+        "company" : "QUEST INNOVATIVE SOLUTIONS",
+        "descrition" : [
+            "Learning & creating self project with server-side web application logic.",
+            "Learning everything in good pace.",
+            "Acquiring industrial career standards."
+        ]
+    },
+    {
+        "post" : "Accounts Receivable",
+        "date" : "JUL 2017 - DEC 2017",
+        "company" : "PROMETHEUS BUSINESS OUTSOURCING PVT. LTD.",
+        "descrition" : [
+            "Calling American insurance companies to follow/receive the status of claims sent by provider clients.",
+            "Perfectly folllowing daily updates & taking quick decisions.",
+            "Claim submission, sending appropriate documents & letters for claim sanctioning were included in the process."
+        ]
+    },
+    {
+        "post" : "Junior Software Developer",
+        "date" : "JAN 2018 - JUN 2019",
+        "company" : "PIXELMARGIN SOFTWARE PVT LTD.",
+        "descrition" : [
+            "Designing professional websites using various builders.",
+            "Plugin usage & plugin editing.",
+            "Worked on static wordpress websites creation & maintenance & also fixing design issues in Concrete5 CMS"
+        ]
+    },
+    {
+        "post" : "Software Developer",
+        "date" : "JUL 2019 - FEB 2020",
+        "company" : "MUTEX TECHNOLOGIES PVT LTD.",
+        "descrition" : [
+            "Working in MVC Codeigniter & CMS Wordpress.",
+            "UI Developing & Android development.",
+            "Solving design issues & implementing new functionalities.",
+            "Worked multiple projects deducing UI problems & functionality dilemma."
+        ]
+    },
+    {
+        "post" : "Junior Software Engineer",
+        "date" : "MAR 2020 - OCT 2020",
+        "company" : "RSGP CONSULTING PVT LTD.",
+        "descrition" : [
+            "Worked in MVC Codeigniter & full stack web technologies in developing company dashboard.",
+            "Module documentation, time estimation & from scratch to finish implementation of modules."
+        ]
+    }
+]
