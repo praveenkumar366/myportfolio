@@ -1,52 +1,62 @@
 #one_div {
-    /* background-color: red; */
+  /* background-color: red; */
 }
 .progress {
-    height: 6px;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    background: #f2f3f7;
-    overflow: visible;
+  height: 6px;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: #f2f3f7;
+  overflow: visible;
 }
 .progress-bar {
-    background: #2c98f0;
-    -webkit-box-shadow: none;
-    box-shadow: none;
-    font-size: 12px;
-    line-height: 1.2;
-    color: #000;
-    font-weight: 600;
-    text-align: right;
-    position: relative;
-    overflow: visible;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    -ms-border-radius: 8px;
-    border-radius: 8px;
-    }
-    .progress-bar:after {
-        position: absolute;
-        top: -2px;
-        right: 0;
-        width: 10px;
-        height: 10px;
-        content: '';
-        background: #2c98f0;
-        -webkit-border-radius: 50%;
-        -moz-border-radius: 50%;
-        -ms-border-radius: 50%;
-        border-radius: 50%;
-    }
-      .progress-bar span {
-        position: absolute;
-        top: -22px;
-        right: 0;
-    }
-    .progress-bar.color-1 {
-        background: #2c98f0;
-        }
-        .progress-wrap {
-            width: 70%;
-            text-align: center;
-            font-size: 85%;
-        }
+  background: #2c98f0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-size: 12px;
+  line-height: 1.2;
+  color: #000;
+  font-weight: 600;
+  text-align: right;
+  position: relative;
+  overflow: visible;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  border-radius: 8px;
+}
+.progress-bar:after {
+  position: absolute;
+  top: -2px;
+  right: 0;
+  width: 10px;
+  height: 10px;
+  content: "";
+  background: #2c98f0;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+.progress-bar span {
+  position: absolute;
+  top: -22px;
+  right: 0;
+}
+.progress-bar.color-1 {
+  background: #2c98f0;
+}
+.progress-wrap {
+  width: 70%;
+  text-align: center;
+  font-size: 85%;
+}
+.main_row {
+  margin-bottom: 4%;
+  margin-top: 4%;
+}
+.headi_skill {
+  float: left;
+  position: absolute;
+  top: -21px;
+  font-size: 15px !important;
+}
