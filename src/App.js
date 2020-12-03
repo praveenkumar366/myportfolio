@@ -19,6 +19,7 @@ function App() {
           <Route path="/educ" component={Educ} />
           <Route path="/expe" component={Expe} />
           <Route path="/skills" component={Skills} />
+          <Route path="https://praveenkumar366.github.io/" component={Home} />
           <Route component={Nofind} />
         </Switch>
     </div>
