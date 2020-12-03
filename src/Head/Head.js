@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 export default function Head() {
     return (
         <Navbar bg="light" expand="lg">
-        <Navbar.Brand as={Link} to="/">My Posrtfolio</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/">My Portfolio</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
@@ -15,6 +15,7 @@ export default function Head() {
             <Nav.Link as={Link} to="/expe">Experience</Nav.Link>
             <Nav.Link as={Link} to="/educ">Education</Nav.Link>
             <Nav.Link as={Link} to="/skills">Skills</Nav.Link>
+            <Nav.Link as={Link} to="/contact">Contacts</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>

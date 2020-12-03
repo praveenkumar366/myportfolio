@@ -7,6 +7,7 @@ import Expe from "./pages/Expe/Expe";
 import Head from "./Head/Head";
 import Skills from "./pages/Skills/Skills"
 import Nofind from "./pages/Nofind/Nofind";
+import Contact from "./pages/Contact/Contact";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/educ" component={Educ} />
           <Route path="/expe" component={Expe} />
           <Route path="/skills" component={Skills} />
+          <Route path="/contact" component={Contact} />
           <Route path="https://praveenkumar366.github.io/" component={Home} />
           <Route component={Nofind} />
         </Switch>

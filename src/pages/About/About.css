@@ -1,0 +1,39 @@
+.about_cont {
+    text-align: left;
+}
+.colorlib-heading {
+    font-size: 18px;
+    margin-bottom: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative;
+    color: #000;
+    font-family: "Playfair Display", Georgia, serif;
+    margin: 30px 0 30px 0;
+}
+.colorlib-span {
+    font-size: 18px;
+    margin-bottom: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative;
+    color: #000;
+    font-family: "Playfair Display", Georgia, serif;
+    margin: 30px 0 30px 0;
+}
+.colorlib-act {
+    font-size: 18px;
+    margin-bottom: 4em;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    line-height: 1.8;
+    position: relative;
+    color: #000;
+    font-family: "Playfair Display", Georgia, serif;
+    margin: 50px 0 30px 0;
+}
